@@ -1,4 +1,4 @@
-# binder
+# public(action)
 
 # About
 Binder is a simple web template. 
