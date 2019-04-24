@@ -79,6 +79,8 @@ body {
 	margin: 0;
 	padding:0;
 	list-style-type: none;
+	font-family: "Walfork";
+	src: url('/fonts/Walfork-Demi.woff');
 }
 
 #navigation li{
@@ -106,7 +108,7 @@ body {
 .about{
 	position: fixed;
 	font-family: "Walfork";
-	src: url('/fonts/Walfork-Demi.woff');
+	src: url('/fonts/Walfork-Regular.woff');
     letter-spacing: 0.5px;
     font-size: 14px;
     line-height: 19px;
