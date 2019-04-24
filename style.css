@@ -48,7 +48,7 @@ body {
 	line-height: 1.5em;
 	cursor: move;
 	background-color: #EFEFEF;
-	text-shadow: 2px 2px 5px purple;
+	text-shadow: 2px 2px 5px #EBDDFF;
 }
 
 #logo {
