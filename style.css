@@ -37,7 +37,7 @@ body {
 	position: fixed;
 	left: 60px;
 	top: 30%;
-	color: #FFF;
+	color: #000;
 	letter-spacing: .02em;
 	z-index:10;
 	padding: 13px;
@@ -46,7 +46,7 @@ body {
         letter-spacing: -0.3px;
 	line-height: 1.5em;
 	cursor: move;
-	background-color: #000;
+	background-color: #696969;
 	text-transform: uppercase;
 }
 
@@ -82,7 +82,7 @@ body {
 	padding:0;
 	list-style-type: none;
 	font-family: "Walfork";
-	src: url('/fonts/Walfork-Demi.woff');
+	src: url('/fonts/Walfork-Heavy.woff');
 }
 
 #navigation li{
