@@ -4,19 +4,24 @@
 	"about" : "Creating spaces for change.",
 	"menu" : {
 		"Syllabus" : "https://docs.google.com/document/d/1pKinRV0d5kGdQ4G8vLidgjEZ5XgE221Zj6uVggiW3jA/",
+		
 		"LRJ Beautiful Exhibition" : "https://beautifulexhibition.home.blog/lrj/process/",
 		"LRJ L's Reader" : "https://beautifulexhibition.home.blog/l-beautiful-2/l/",
 		"LRJ R's Reader" : "https://beautifulexhibition.home.blog/r-readers/",
 		"LRJ J's Reader" : "https://beautifulexhibition.home.blog/j-readers/",
+		"LRJ Open Studios" : "https://docs.google.com/presentation/d/1LFUuzTiT2NBfzTh6RZ1lIc2xSKYrFh7z04s4DrB3T_c/embed?start=true&loop=true&delayms=5000&slide=id.p",
+		
 		"Sensory Remedy Walkthrough" : "https://www.youtube.com/embed/E1KGDS8QPgQ",
 		"Sensory Remedy Identity" : "https://docs.google.com/presentation/d/1Olt8iyQoYPUw4BfXqZPmY6TfgJ7uDjzmpxq8HDnxQN8/embed?start=true&loop=true&delayms=5000&slide=id.p",
+		
 		"Bloom Box" : "https://www.youtube.com/embed/3I8BXQjR1IQ",
 		"Bloom Website" : "https://www.youtube.com/embed/Wm1D80AsuM4",
 		"Bloom Process Flow" : "https://www.youtube.com/embed/MlZvmAqHPIU",
+		
 		"Team Urban Manifesto" : "https://docs.google.com/document/d/1GTOdV5cw1kckwMvkCrEjeAh3dc9SG0i4o_yTgxPB4TA/",
 		"Team Urban Video" : "https://www.youtube.com/embed/yxFnRczzpsA",
 		"Team Urban Images" : "https://docs.google.com/presentation/d/1_Jcb8LRD_nYiEp9HDPYachfro3uC4Va3bUkwOJM3Kxs/embed?start=true&loop=true&delayms=5000&slide=id.p",
-		"Team Urban Exihibition" : "https://www.youtube.com/embed/MmO0_NjBqqQ",
+		"Team Urban Exhibition" : "https://www.youtube.com/embed/MmO0_NjBqqQ",
 		"Team Urban First Mini Show" : "https://www.youtube.com/embed/AAgW1Lf_tk4"
 	}
 }
