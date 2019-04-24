@@ -15,7 +15,7 @@ html {
 
 @font-face {
   font-family: 'Walfork';
-  src: url(fonts/Walfork-Demi.woff); format('woff');
+  src: url(fonts/Walfork-Regular.woff); format('woff');
   font-weight: normal;
   font-style: normal;
 }
