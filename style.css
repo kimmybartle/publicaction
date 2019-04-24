@@ -105,7 +105,7 @@ body {
 
 .about{
 	position: fixed;
-	font-family: "(/fonts/Walfork-Demi.woff)";
+	font-family: "/fonts/Walfork-Demi.woff";
     letter-spacing: 0.5px;
     font-size: 14px;
     line-height: 19px;
